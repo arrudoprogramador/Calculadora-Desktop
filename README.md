@@ -1,5 +1,5 @@
 Este projeto é uma calculadora gráfica desenvolvida em Java, utilizando a biblioteca Swing para a interface gráfica. 
-O layout foi inspirado no estilo das calculadoras da Apple, com foco em simplicidade, usabilidade e visual moderno.
+O layout foi inspirado no estilo das calculadoras da Apple.
 
 Operações básicas:
 ➕ Adição.
